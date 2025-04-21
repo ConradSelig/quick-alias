@@ -1,0 +1,9 @@
+{
+    "id": "quick-alias",
+    "name": "Quick Alias",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "A plugin which converts soft alias wikilinks into permanent aliases in the child's frontmatter properties.",
+    "author": "Conrad Selig",
+    "isDesktopOnly": false
+}
